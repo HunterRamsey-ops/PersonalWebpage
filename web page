@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Home | Christopher Hunter Ramsey</title>
+<meta name="description" content="Personal website of Christopher Hunter Ramsey: former chef, pro gamer and paralegal turned software and tech engineer with a passion for automotive and firearms fabrication engineering.">
+<meta name="author" content="Christopher Hunter Ramsey">
+<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<p class="brand">Christopher Hunter Ramsey</p>
+<nav aria-label="Main navigation">
+<ul>
+<li><a href="index.html" aria-current="page">Home</a></li>
+<li><a href="interests.html">Interests</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="contact.html">Contact Me</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<section class="hero">
+<div>
+<h1>Chef turned gamer turned paralegal turned engineer.</h1>
+<p>I'm Christopher Hunter Ramsey, a 37-year-old software and tech engineer from Tulsa, Oklahoma. Before writing code I ran professional kitchens, competed as a pro gamer, and worked as a paralegal. Each career taught me something I still use: the pace of a line cook, the discipline of competition, and the precision of legal writing.</p>
+<p>Today I build software and spend my free time on automotive and firearms fabrication engineering, the kind of work where tolerances matter and mistakes show.</p>
+</div>
+<img src="images/profile.svg" alt="Portrait of Christopher Hunter Ramsey" width="600" height="400">
+</section>
+<section>
+<h2>About me</h2>
+<p>I was born on July 6, 1989. I like learning how things work by taking them apart, then building a better version. That habit carried me from the kitchen, to esports, to law offices, and finally into software and technology engineering.</p>
+</section>
+<section>
+<h2>Background and education</h2>
+<ul>
+<li><strong>Software and Tech Engineer:</strong> [current role or company]</li>
+<li><strong>Paralegal:</strong> [firm or program, years]</li>
+<li><strong>Professional Gamer:</strong> [game, team or league]</li>
+<li><strong>Chef:</strong> [culinary school or kitchens]</li>
+<li><strong>Education:</strong> [degree, school, year]</li>
+</ul>
+</section>
+</main>
+<footer>
+<p>Find me online:</p>
+<ul>
+<li><a href="#" aria-label="LinkedIn profile">LinkedIn</a></li>
+<li><a href="#" aria-label="GitHub profile">GitHub</a></li>
+<li><a href="#" aria-label="Instagram profile">Instagram</a></li>
+<li><a href="#" aria-label="YouTube channel">YouTube</a></li>
+</ul>
+<p>&copy; 2026 Christopher Hunter Ramsey</p>
+</footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Interests | Christopher Hunter Ramsey</title>
+<meta name="description" content="Christopher Hunter Ramsey's hobbies and passions: automotive projects, fabrication engineering, cooking and competitive gaming.">
+<meta name="author" content="Christopher Hunter Ramsey">
+<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<p class="brand">Christopher Hunter Ramsey</p>
+<nav aria-label="Main navigation">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="interests.html" aria-current="page">Interests</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="contact.html">Contact Me</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h1>Interests</h1>
+<p>I spend my time on things that reward patience and precision. Here is what keeps me busy outside of work.</p>
+<section>
+<h2>Automotive</h2>
+<p>I enjoy building, tuning and repairing vehicles, from diagnostics to custom fabrication. The goal is the same each time: understand the system, then improve it.</p>
+<img src="images/auto.svg" alt="Placeholder for a photo of my automotive project" width="600" height="400">
+<p><a href="https://www.hotrod.com/" target="_blank" rel="noopener">Hot Rod magazine</a> is one of my go-to reads for inspiration.</p>
+</section>
+<section>
+<h2>Fabrication engineering</h2>
+<p>I design and fabricate precision parts, including lawful firearms components, using machining, CAD and careful safety practices. I follow all applicable federal, state and local laws.</p>
+<img src="images/fab.svg" alt="Placeholder for a photo of my fabrication workshop" width="600" height="400">
+<p><a href="https://www.atf.gov/firearms" target="_blank" rel="noopener">ATF firearms information</a> is where I check regulations.</p>
+</section>
+<section>
+<h2>Cooking and gaming</h2>
+<p>My chef years left me with strong opinions about knives and seasoning. My pro gaming years left me with a competitive streak and quick reflexes.</p>
+<img src="images/kitchen.svg" alt="Placeholder for a photo of a dish I cooked" width="600" height="400">
+</section>
+</main>
+<footer>
+<p>Find me online:</p>
+<ul>
+<li><a href="#" aria-label="LinkedIn profile">LinkedIn</a></li>
+<li><a href="#" aria-label="GitHub profile">GitHub</a></li>
+<li><a href="#" aria-label="Instagram profile">Instagram</a></li>
+<li><a href="#" aria-label="YouTube channel">YouTube</a></li>
+</ul>
+<p>&copy; 2026 Christopher Hunter Ramsey</p>
+</footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gallery | Christopher Hunter Ramsey</title>
+<meta name="description" content="Photo and video gallery of Christopher Hunter Ramsey featuring family, pets, inspirational people and his workshop.">
+<meta name="author" content="Christopher Hunter Ramsey">
+<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<p class="brand">Christopher Hunter Ramsey</p>
+<nav aria-label="Main navigation">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="interests.html">Interests</a></li>
+<li><a href="gallery.html" aria-current="page">Gallery</a></li>
+<li><a href="contact.html">Contact Me</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h1>Media gallery</h1>
+<p>A few photos of me, my family, my pets and the people who inspire me.</p>
+<ul class="grid">
+<li><figure><img src="images/gallery1.svg" alt="Christopher Hunter Ramsey in his workshop" width="600" height="400"><figcaption>Me at work in the shop.</figcaption></figure></li>
+<li><figure><img src="images/gallery2.svg" alt="Christopher with family members" width="600" height="400"><figcaption>Family time.</figcaption></figure></li>
+<li><figure><img src="images/gallery3.svg" alt="My pet" width="600" height="400"><figcaption>My pet, [name].</figcaption></figure></li>
+<li><figure><img src="images/gallery4.svg" alt="A person who inspires me" width="600" height="400"><figcaption>[Name], a person who inspires me.</figcaption></figure></li>
+</ul>
+<section>
+<h2>Video</h2>
+<figure>
+<video controls width="600" preload="none"><source src="images/my-video.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<figcaption>Add your own video file as images/my-video.mp4.</figcaption>
+</figure>
+</section>
+</main>
+<footer>
+<p>Find me online:</p>
+<ul>
+<li><a href="#" aria-label="LinkedIn profile">LinkedIn</a></li>
+<li><a href="#" aria-label="GitHub profile">GitHub</a></li>
+<li><a href="#" aria-label="Instagram profile">Instagram</a></li>
+<li><a href="#" aria-label="YouTube channel">YouTube</a></li>
+</ul>
+<p>&copy; 2026 Christopher Hunter Ramsey</p>
+</footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact Me | Christopher Hunter Ramsey</title>
+<meta name="description" content="Contact Christopher Hunter Ramsey: send your name, email and phone number and optionally subscribe to the newsletter.">
+<meta name="author" content="Christopher Hunter Ramsey">
+<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<p class="brand">Christopher Hunter Ramsey</p>
+<nav aria-label="Main navigation">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="interests.html">Interests</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+<li><a href="contact.html" aria-current="page">Contact Me</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h1>Contact me</h1>
+<p>Send me your details and I'll get back to you.</p>
+<form action="#" method="post">
+<fieldset>
+<legend>Your information</legend>
+<label for="first">First name</label>
+<input type="text" id="first" name="first_name" autocomplete="given-name" required>
+<label for="last">Last name</label>
+<input type="text" id="last" name="last_name" autocomplete="family-name" required>
+<label for="email">Email address</label>
+<input type="email" id="email" name="email" autocomplete="email" required>
+<label for="phone">Phone number</label>
+<input type="tel" id="phone" name="phone" autocomplete="tel">
+<div class="check">
+<input type="checkbox" id="news" name="newsletter" value="yes">
+<label for="news">Subscribe to my newsletter</label>
+</div>
+</fieldset>
+<button type="submit">Send message</button>
+</form>
+</main>
+<footer>
+<p>Find me online:</p>
+<ul>
+<li><a href="#" aria-label="LinkedIn profile">LinkedIn</a></li>
+<li><a href="#" aria-label="GitHub profile">GitHub</a></li>
+<li><a href="#" aria-label="Instagram profile">Instagram</a></li>
+<li><a href="#" aria-label="YouTube channel">YouTube</a></li>
+</ul>
+<p>&copy; 2026 Christopher Hunter Ramsey</p>
+</footer>
+</body>
+</html>
+
+
+:root{--bg:#eceeed;--ink:#1c2a33;--steel:#5d6b75;--brass:#b08a3e;--panel:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#1c2a33;--ink:#eceeed;--steel:#a9b5bc;--brass:#d2a94f;--panel:#25363f}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:1.05rem/1.65 Georgia,"Times New Roman",serif}
+h1,h2,h3,nav,button,label,legend{font-family:"Arial Narrow","Helvetica Neue",Arial,sans-serif}
+h1{font-size:clamp(2.2rem,6vw,3.6rem);line-height:1.05;margin:.2em 0;letter-spacing:-.01em}
+h2{font-size:1.6rem;border-bottom:3px solid var(--brass);display:inline-block;padding-bottom:.1em}
+a{color:var(--ink);text-decoration-color:var(--brass);text-underline-offset:3px}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid var(--brass);outline-offset:2px}
+header,main,footer{max-width:62rem;margin:0 auto;padding:1rem 1.25rem}
+header{border-bottom:1px solid var(--steel)}
+.brand{font:700 1.1rem Arial,sans-serif;margin:0}
+nav ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem 1.4rem;padding:0;margin:.6rem 0 0}
+nav a{text-decoration:none;font-weight:700;padding:.2rem 0;border-bottom:3px solid transparent}
+nav a[aria-current="page"],nav a:hover{border-bottom-color:var(--brass)}
+.hero{display:grid;grid-template-columns:1fr 16rem;gap:2rem;align-items:center;margin:1.5rem 0}
+img,video{max-width:100%;height:auto;display:block}
+.hero img{border:4px solid var(--ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1.25rem;padding:0;margin:0;list-style:none}
+figure{margin:0;background:var(--panel);padding:.6rem;border-left:4px solid var(--brass)}
+figcaption{font-size:.92rem;color:var(--steel);padding-top:.4rem}
+form{background:var(--panel);padding:1.25rem;border-left:4px solid var(--brass);max-width:34rem}
+fieldset{border:0;padding:0;margin:0 0 1rem}
+label{display:block;font-weight:700;margin:.8rem 0 .2rem}
+input[type=text],input[type=email],input[type=tel]{width:100%;padding:.55rem;font:inherit;border:2px solid var(--steel);background:var(--bg);color:var(--ink)}
+.check{display:flex;gap:.6rem;align-items:center;margin:1rem 0}
+.check label{margin:0}
+button{background:var(--ink);color:var(--bg);border:0;padding:.7rem 1.5rem;font-size:1rem;font-weight:700;cursor:pointer}
+button:hover{background:var(--brass);color:#1c2a33}
+footer{border-top:1px solid var(--steel);margin-top:2rem;font-size:.95rem}
+footer ul{list-style:none;display:flex;gap:1.2rem;padding:0;flex-wrap:wrap}
+@media(max-width:640px){.hero{grid-template-columns:1fr}}
